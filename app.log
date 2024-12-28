@@ -1,0 +1,11 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/food\",\"status\":\"201\",\"responseTime\":\"5.990\"}","timestamp":"2024-12-28T11:00:36.339Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/food\",\"status\":\"201\",\"responseTime\":\"1.027\"}","timestamp":"2024-12-28T11:00:38.501Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/food\",\"status\":\"200\",\"responseTime\":\"0.420\"}","timestamp":"2024-12-28T11:00:46.935Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/food\",\"status\":\"201\",\"responseTime\":\"5.140\"}","timestamp":"2024-12-28T11:07:51.764Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/food\",\"status\":\"201\",\"responseTime\":\"0.395\"}","timestamp":"2024-12-28T11:08:53.302Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/food\",\"status\":\"201\",\"responseTime\":\"0.774\"}","timestamp":"2024-12-28T11:09:19.615Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/food\",\"status\":\"201\",\"responseTime\":\"2.630\"}","timestamp":"2024-12-28T11:09:47.146Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/food\",\"status\":\"201\",\"responseTime\":\"3.646\"}","timestamp":"2024-12-28T11:22:27.659Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/food\",\"status\":\"201\",\"responseTime\":\"0.388\"}","timestamp":"2024-12-28T11:22:29.406Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/food\",\"status\":\"201\",\"responseTime\":\"0.465\"}","timestamp":"2024-12-28T11:22:30.982Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/food\",\"status\":\"200\",\"responseTime\":\"0.597\"}","timestamp":"2024-12-28T11:22:58.092Z"}
